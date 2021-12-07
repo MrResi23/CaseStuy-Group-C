@@ -29,3 +29,6 @@ empty slots for storage that can only be stored
 for 2 days, where items are stored based on house 
 number and each storage can hold 5 parcels.
 For this case we assume each storage already have 5 parcels.
+
+//Sir, we previously did the code seperately from our local pc then compiled it later to proceed submiting it 
+to github hence the 1 contributor from the github repository.
