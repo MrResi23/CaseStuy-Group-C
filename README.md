@@ -1,7 +1,3 @@
-# CaseStuy-Group-C
-Parcel Management Sytem
-
-
 Group C
 
 1.Nur Hafni Binti Mohd Nizam 1913844
